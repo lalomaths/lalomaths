@@ -7,7 +7,7 @@
 
 ### ⚙️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,vim,linux,git,github,java,spring,maven,hibernate,tomcat,python" />
+  <img src="https://skillicons.dev/icons?i=bash,vim,linux,git,github,java,spring,maven,hibernate,python" />
 </div>
 
 ---

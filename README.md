@@ -5,7 +5,7 @@
 
 ---
 
-### ⚙️ Tech Stack (Estudando)
+### ⚙️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bash,linux,python,git,github,html,css,js" />
 </div>
@@ -13,37 +13,37 @@
 ---
 
 ### 🧾 Bio
-> Estudante de segurança focado no básico de **hacking de aplicações web** e **segurança Wi‑Fi**, aprendendo técnicas fundamentais, análise de tráfego e desenvolvimento de pequenos scripts para estudo.
+> Estudante de segurança focado nos fundamentos de **hacking de aplicações web** e **segurança Wi‑Fi**, aprendendo técnicas básicas, análise de tráfego e criação de pequenos scripts para praticar.
 
 ---
 
 ### 🔎 O que estou aprendendo
 
 #### 🕸️ Web Hacking (Iniciante)
-- Conceitos essenciais da **OWASP Top 10**.  
-- Entender como funcionam:
-  - XSS (Cross‑Site Scripting)  
-  - SQL Injection (noções básicas)  
+- Conceitos essenciais da **OWASP Top 10**  
+- Como funcionam:
+  - XSS  
+  - SQL Injection (noções iniciais)  
   - Directory Traversal  
   - Cookies, sessões e autenticação  
-- Fazer testes simples com:
+- Uso básico de:
   - Burp Suite (Community)  
   - curl / wget  
-  - navegadores com ferramentas de desenvolvedor  
-- Criando pequenos labs locais para praticar.
+  - DevTools do navegador  
+- Montando pequenos labs locais para prática.
 
 ---
 
 #### 📡 Wi‑Fi Hacking (Iniciante)
-- Entender como redes **802.11** funcionam.  
-- Usar modo monitor e capturar pacotes com:
+- Funcionamento das redes **802.11**  
+- Captura de pacotes com:
   - **Airodump-ng**  
   - **Wireshark**  
-- Aprender a identificar:
+- Identificação de:
   - Handshakes  
   - Beacon frames  
   - Probe requests/responses  
-- Testes controlados em laboratório usando adaptadores Wi‑Fi compatíveis.  
+- Testes em laboratório com adaptadores compatíveis.  
 - Experimentos com **ESP8266** para capturar frames e estudar o tráfego.
 
 ---
@@ -55,4 +55,4 @@
 
 ---
 
-> "Every expert was once a beginner — just don’t stop learning."
+> "Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke
